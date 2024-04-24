@@ -1,0 +1,13 @@
+.footer{
+    padding: 50px;
+}
+.copy{
+    background-color: rgb(231, 226, 226);
+    text-align: center;
+    color: rgba(254, 0, 0, 0.429);
+    font-weight: bolder;
+}
+.footer h6{
+    text-align: center;
+
+}
